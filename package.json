@@ -1,6 +1,6 @@
 {
   "name": "@seriouslag/react-chatbot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,6 +10,10 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seriouslag/react-chatbot.git"
   },
   "dependencies": {
     "dompurify": "^3.1.1",
@@ -70,5 +74,13 @@
       "styles": "./dist/style.css"
     },
     "./css": "./dist/style.css"
-  }
+  },
+  "author": "Landon Gavin (@seriouslag)",
+  "homepage": "https://github.com/seriouslag/react-chatbot",
+  "bugs": "https://github.com/seriouslag/react-chatbot/issues",
+  "keywords": [
+    "chatbot",
+    "react",
+    "ai"
+  ]
 }
