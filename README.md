@@ -1,3 +1,5 @@
+# Deprecated - use [seriouslag/ui-chatbot-monorepo](https://github.com/seriouslag/ui-chatbot-monorepo)
+
 # @seriouslag/react-chatbot
 
 A simple chatbot component for React to interface with AI chats.
